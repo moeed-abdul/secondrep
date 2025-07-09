@@ -66,4 +66,9 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+
+
+a=3
+b=4
+print(a+b)
 print("my name is Hassan!")
